@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio7CustoFinalCarro/obj/x86/Debug/Exercicio7CustoFinalCarro.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio7CustoFinalCarro/bin/Debug/Exercicio7CustoFinalCarro.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio7CustoFinalCarro/bin/Debug/Exercicio7CustoFinalCarro.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio7CustoFinalCarro/obj/x86/Debug/Exercicio7CustoFinalCarro.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio7CustoFinalCarro/obj/x86/Debug/Exercicio7CustoFinalCarro.pdb
